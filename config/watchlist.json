@@ -1,0 +1,26 @@
+{
+  "mint": "CARDSccUMFKoPRZxt5vt3ksUbxEFEcnZ3H2pd3dKxYjp",
+  "symbol": "CARDS",
+  "decimals": 6,
+  "total_supply": 1999705783.47,
+  "main_pool_address": "HnhpJPJgBG2KwniMTNW8cVBHvk1hFog3RC3kjnyc23tD",
+  "liq_drop_pct": 0.20,
+  "price_dump_pct": -10.0,
+  "price_dump_reset_pct": -5.0,
+  "wallets": [
+    {"address": "3PnVBrb4wPLFLW38oaYR7dA6HSfKpawxHGESPj5kF1QB", "label": "Treasury (79.3% of supply)", "role": "treasury",      "cards_outflow_alert": 500000,  "sol_outflow_alert": 5},
+    {"address": "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ", "label": "Market maker (29k SOL)",    "role": "market_maker",  "cards_outflow_alert": 2000000, "sol_outflow_alert": 2000},
+    {"address": "6QDnPbwbJuph4LdRDBj6ZGhVvw5fFx2dL2uBeDXCHWH", "label": "Dormant whale (idle ~8mo)", "role": "dormant_whale", "cards_outflow_alert": 100000,  "sol_outflow_alert": 1},
+    {"address": "5HwYhzpKthBdMNdeiMdt5cJ8i5uQKHEMVr5cv7abj61L", "label": "Diamond hand ($2.9M)",      "role": "dormant_whale", "cards_outflow_alert": 100000,  "sol_outflow_alert": 1},
+    {"address": "5UT8zffhq81T7BSyNa6ygiiSnbrzQUtA6LQeyuyH3yiq", "label": "Whale #3",                  "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf", "label": "Whale #6 (active)",         "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "3KiKv1ZuszqV3WWXvkMZeV3DZ7ndLA6hBJ4ULGvoRj4e", "label": "Whale #7 (116 SOL)",        "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9", "label": "Whale #9",                  "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "7DZhNiJ4KYFD7UWLoL6HgKaUUJuGnJyVGaVnLkYSg7yX", "label": "Whale #10",                 "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "FrFx5v35tX3o9s7qCaNGSrYbFq6kAhqb1qvrZXmcmSaJ", "label": "Whale #13 (61 SOL)",        "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX", "label": "Whale #15 (active now)",    "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU", "label": "Whale #17 (active)",        "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu",  "label": "Whale #23 (active now)",    "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100},
+    {"address": "6rQG31K3k9ZSDPV53hApWLoFagBbH6BnjcMk4vQbD37o", "label": "Whale #28",                 "role": "whale",         "cards_outflow_alert": 200000,  "sol_outflow_alert": 100}
+  ]
+}
