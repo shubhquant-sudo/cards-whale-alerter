@@ -13,6 +13,7 @@ from . import market as market_mod
 from . import rules
 from . import solana
 from . import state as state_mod
+from . import subscribers
 from . import telegram
 from . import claude_signal
 from .paths import BIBLE_PATH, WATCHLIST_PATH
@@ -64,6 +65,17 @@ def run():
     bible = _load_bible()
     prev = state_mod.load()
 
+    # Handle new subscribers first (password-gated), so they're included below.
+    token = os.environ.get("TELEGRAM_BOT_TOKEN", "")
+    password = os.environ.get("BOT_PASSWORD", "")
+    if token and password and os.environ.get("DRY_RUN") != "1":
+        try:
+            subscribers.process_signups(token, password)
+        except Exception as e:  # noqa: BLE001 - signups must never block alerting
+            print("signup processing failed:", e)
+    recipients = subscribers.recipient_ids(os.environ.get("TELEGRAM_CHAT_ID"))
+    print(f"Broadcasting to {len(recipients)} recipient(s).")
+
     market = market_mod.get_market(config["mint"])
     snaps = _snapshot_wallets(config)
 
@@ -81,7 +93,7 @@ def run():
     }
 
     if not prev.get("initialized"):
-        telegram.send(_startup_summary(config, snaps, market))
+        telegram.broadcast(_startup_summary(config, snaps, market), recipients)
         state_mod.save(new_state)
         print("Initialized baselines for", len(snaps), "wallets.")
         return
@@ -91,9 +103,8 @@ def run():
     sent = 0
     for ev in events:
         body = claude_signal.render(ev, bible, market)
-        if telegram.send(telegram.format_message(ev, body)):
-            sent += 1
-    print(f"Sent {sent}/{len(events)} alert(s).")
+        sent += telegram.broadcast(telegram.format_message(ev, body), recipients)
+    print(f"Sent {sent} message(s) across {len(events)} event(s).")
 
     # Save state even if some sends failed, to avoid re-alerting in a loop.
     state_mod.save(new_state)
