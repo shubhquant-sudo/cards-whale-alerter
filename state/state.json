@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-06-23T15:36:08.108160+00:00",
+  "last_run": "2026-06-23T17:30:08.739982+00:00",
   "market": {
-    "main_liquidity_usd": 3479364.89,
-    "price": 0.2528,
-    "price_change_h1": -0.99,
+    "main_liquidity_usd": 3791125.17,
+    "price": 0.3008,
+    "price_change_h1": 19.17,
     "price_dump_flag": false
   },
   "wallets": {
@@ -50,6 +50,12 @@
       "last_sig": "tB8UHjDTqHNMYfia6ZSKaRQjkcyspYC5XauZfDk1UDSBbP3rskB333vEwrijbFTXHarSsqePUaw15b9L6zxDsiC",
       "sol": 0.490268828
     },
+    "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
+      "cards": 3933012.9036,
+      "last_active_ts": 1782235415,
+      "last_sig": "4mVX72MQnJQXnCvVwV5rQs9jDQf54VP1pU4c2cqMJQGZmh2FYsaDHEJXuxxRn6CsHdKiJ3wrjcSM81AhgNMKwi7S",
+      "sol": 0.250878667
+    },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
       "cards": 5488139.281364,
       "last_active_ts": 1782215141,
@@ -57,10 +63,10 @@
       "sol": 1.056464937
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 7624912.158737,
-      "last_active_ts": 1782228906,
-      "last_sig": "5jzoQQkbAEfMg1QSHFN7TzoBQjv8ViUqMt6156Gq1N6MoAiYPtPhhGnjsYKuzcYwyYqjY67MuKXxgE7e35Cm8WdT",
-      "sol": 33867.26702551
+      "cards": 7564704.380549,
+      "last_active_ts": 1782235748,
+      "last_sig": "4EWsbVpa1Hq3L53AqLtsDzijgqdxdPKmbC9ALKfHrXHwTb7WhSAwqCpF534Pxzz6rFwma5tKDFnE2z9Me2YnnYat",
+      "sol": 33262.550561719
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 7466450.759022,
@@ -73,12 +79,6 @@
       "last_active_ts": 1781817568,
       "last_sig": "3rSHJqbfst27CBWdtatuVYS7bpYnTT4wBdf9skUWzmoTk7FdvbnTjitzNhxw36S3ZL9kkoTHKR3niaEAnLWowWQL",
       "sol": 60.85806802
-    },
-    "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
-      "cards": 3737654.000095,
-      "last_active_ts": 1782227582,
-      "last_sig": "2gN92fjY3dwz1qFL9Xhb9yZN5mhwMTkfYUUA66AKRkEdPSA6mwUC4dZLK4V5PQsZusWRS4LK6sA2mt9BJek1pmuQ",
-      "sol": 8772.803198007
     },
     "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
       "cards": 3521802.772975,
