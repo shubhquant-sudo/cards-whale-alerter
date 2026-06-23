@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-06-23T09:30:23.595691+00:00",
+  "last_run": "2026-06-23T12:23:56.692685+00:00",
   "market": {
-    "main_liquidity_usd": 3505573.9,
-    "price": 0.2569,
-    "price_change_h1": 3.61,
+    "main_liquidity_usd": 3523578.61,
+    "price": 0.2594,
+    "price_change_h1": 1.46,
     "price_dump_flag": false
   },
   "wallets": {
@@ -50,23 +50,17 @@
       "last_sig": "tB8UHjDTqHNMYfia6ZSKaRQjkcyspYC5XauZfDk1UDSBbP3rskB333vEwrijbFTXHarSsqePUaw15b9L6zxDsiC",
       "sol": 0.490268828
     },
-    "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
-      "cards": 3933012.9036,
-      "last_active_ts": 1782206770,
-      "last_sig": "8eAyA1Gn15fRdNLKokDF2cRJtHKW5wpuQaKPTaLfARdyB2yG1Vt2PgDC6w3rmZWvnpfVRYLSrcg6bfVJeHtFWfv",
-      "sol": 0.250878667
-    },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
       "cards": 5488139.281364,
-      "last_active_ts": 1782045547,
-      "last_sig": "3YgE5vFJ3AXdDb7dHC7B2tosGGdKTNahqvKRzxwXXAUjfGsGD6ATptTHLvp2KZwmhAWjHYoxt5PeKY9KLcik3khK",
-      "sol": 1.05647027
+      "last_active_ts": 1782215141,
+      "last_sig": "5GAq6VcimGbwbZ2N4E1dPTZGmp5CetLqDMzyb2ReU2PPYhAzk7N91YaQVeqKVHHNR6TAxMNxgrmSY9RbbsC6Bh6B",
+      "sol": 1.056464937
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
       "cards": 7624967.061367,
-      "last_active_ts": 1782206947,
-      "last_sig": "5RYDJxPeeWjJxqW4skWjE5FD4HZe7Wgcq9ngLbNZSA58KVfWXq7faTgE8DNkzd7T4xGRpLAJwGJ24oBTAr5zdG3E",
-      "sol": 36182.798049907
+      "last_active_ts": 1782217384,
+      "last_sig": "2FgPLaMgsENm2dymgL2KjiWMQBRYVqpiYUgwFAUtw9wdbEUvjqr5sc3AJSzbBr16cd3ddytN7wmhPcgJrkCEZVhQ",
+      "sol": 34929.67082155
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 7466450.759022,
@@ -79,6 +73,12 @@
       "last_active_ts": 1781817568,
       "last_sig": "3rSHJqbfst27CBWdtatuVYS7bpYnTT4wBdf9skUWzmoTk7FdvbnTjitzNhxw36S3ZL9kkoTHKR3niaEAnLWowWQL",
       "sol": 60.85806802
+    },
+    "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
+      "cards": 3737654.000095,
+      "last_active_ts": 1782171745,
+      "last_sig": "5B9LHZzV1PPZQN47ue9eq7qVP2V5E4X4TUFwLXV7Y2M7owQ9TYZA1mxz4hjx5F4zSw5SsUuJkCWtA5FfsJqakRML",
+      "sol": 8775.803208047
     },
     "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
       "cards": 3521802.772975,
