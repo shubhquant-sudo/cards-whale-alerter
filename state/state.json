@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-06-27T22:11:37.171963+00:00",
+  "last_run": "2026-06-27T23:19:51.821743+00:00",
   "market": {
-    "main_liquidity_usd": 3513456.52,
-    "price": 0.2394,
-    "price_change_h1": 1.04,
+    "main_liquidity_usd": 3496012.56,
+    "price": 0.2373,
+    "price_change_h1": -0.82,
     "price_dump_flag": false
   },
   "wallets": {
@@ -50,12 +50,6 @@
       "last_sig": "tB8UHjDTqHNMYfia6ZSKaRQjkcyspYC5XauZfDk1UDSBbP3rskB333vEwrijbFTXHarSsqePUaw15b9L6zxDsiC",
       "sol": 0.490268828
     },
-    "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
-      "cards": 3933012.9036,
-      "last_active_ts": 1782595916,
-      "last_sig": "4rF5tQP4TLaDkaQXNuFdJfTQoqmxKqJNX5G75CB6SNBbMNYPLHXkcoYuSXxyZ9cvPQ9KvjUG5BpnqPdk6xhoEFuR",
-      "sol": 0.296776038
-    },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
       "cards": 5238139.281364,
       "last_active_ts": 1782595757,
@@ -64,9 +58,9 @@
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
       "cards": 7287902.064559,
-      "last_active_ts": 1782598207,
-      "last_sig": "2fEoChcwicRPgk25Wy1kipZDMGYEss5FJWs92jVquxVskoh4q2r92Asx46bD7DUcWtCHfQcUE9ibC86AtJ1RpfTs",
-      "sol": 71755.587962198
+      "last_active_ts": 1782602343,
+      "last_sig": "43KMUGU39dNFSviUKmVfyhi6q3weoC9KN9hR4X6w8WEqNdM1gD6ndVUgHPfyTPyePU6QDhUAPAE3nabriRL3AWEY",
+      "sol": 71019.269792345
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 8630009.467028,
@@ -79,6 +73,12 @@
       "last_active_ts": 1782595757,
       "last_sig": "45KFmvHbwoWQs5ZBDUw8i7mMzBP3mjc7xXugUVavXQEKmuYhdtQbKrxw4yAhvDmU2uWkFWW1AJtYvNUYEgNm42rn",
       "sol": 60.857997036
+    },
+    "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
+      "cards": 3737654.000095,
+      "last_active_ts": 1782565294,
+      "last_sig": "4mibfM3pWYU9VUKp9wqS5LTZ4cym6QKb5pGXoK7jagF6fL3B3zRajj6gKmH79efjzLZkYgbj11gMoanqjRyZEXWy",
+      "sol": 44.0346171
     },
     "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
       "cards": 3521802.772975,
