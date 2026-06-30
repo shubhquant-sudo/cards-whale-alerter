@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-06-30T21:58:45.117399+00:00",
+  "last_run": "2026-06-30T23:23:33.708664+00:00",
   "market": {
-    "main_liquidity_usd": 3178068.33,
-    "price": 0.2016,
-    "price_change_h1": -0.2,
+    "main_liquidity_usd": 3165563.41,
+    "price": 0.2018,
+    "price_change_h1": 0.25,
     "price_dump_flag": false
   },
   "wallets": {
@@ -16,8 +16,8 @@
     },
     "3PnVBrb4wPLFLW38oaYR7dA6HSfKpawxHGESPj5kF1QB": {
       "cards": 1583626449.101329,
-      "last_active_ts": 1782854451,
-      "last_sig": "21VmYttZDw7ZXv2gKuLdYMPq6H2njps1KUdYkQBAiLWUMEFbhXt6D55FbRQpqP5xKrFan3ba73oQEf2KpADkom4D",
+      "last_active_ts": 1782858436,
+      "last_sig": "5EJpY1MWLZQ1WtbXF6a8ovZv2weEdRnMZw74GkjGHfdPvCZC2ZYVf95qzaNy1AxxCmoX4wLLsydcLKo5zKTzN24U",
       "sol": 7.774286096
     },
     "5HwYhzpKthBdMNdeiMdt5cJ8i5uQKHEMVr5cv7abj61L": {
@@ -57,10 +57,10 @@
       "sol": 1.056344931
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 7327419.316755,
-      "last_active_ts": 1782856669,
-      "last_sig": "3bWWLSD6xZiz5unG61yjtEkta2TwpcRJzqLb3dTMm4Sb8tvhvh5a5Sfhpkmp3LEcCfwsprDjNusvWNJ6vNvBoy7X",
-      "sol": 20377.212470333
+      "cards": 7323613.386755,
+      "last_active_ts": 1782861738,
+      "last_sig": "5ZKaia6G5a4aE3h2kWdXjmUhQWmhDwmx4r1vaKXqru98YydTig14hiF4UBjcEGMZF3ET98hqiY4KNDjDJuygKbVf",
+      "sol": 20027.667380435
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9275774.345357,
@@ -69,9 +69,9 @@
       "sol": 4.188140849
     },
     "FrFx5v35tX3o9s7qCaNGSrYbFq6kAhqb1qvrZXmcmSaJ": {
-      "cards": 6844298.189622,
-      "last_active_ts": 1782850816,
-      "last_sig": "5XLSQBmvqqGu3oEn99tNY1Br1TycJaq6fMPJCqx1acwniF5dvh9c7Yo8ZsQRZHLtD4czNw5Hud5Nc7tKD5zbf1ZQ",
+      "cards": 7021180.703387,
+      "last_active_ts": 1782861729,
+      "last_sig": "65ctcvBDd9D1i7btXhtV4SwcXL9EsSuYeaqXMvAzr3SKSBtwBEDEhur4Lp5xrLfEDPLpfnz5rFfKTxqwrUX1W9iJ",
       "sol": 6.850213696
     },
     "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
