@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-07-20T14:57:50.747756+00:00",
+  "last_run": "2026-07-20T16:40:58.390206+00:00",
   "market": {
-    "main_liquidity_usd": 2503381.7,
-    "price": 0.1496,
-    "price_change_h1": 0.94,
+    "main_liquidity_usd": 2587698.27,
+    "price": 0.1557,
+    "price_change_h1": 0.57,
     "price_dump_flag": false
   },
   "wallets": {
@@ -50,12 +50,6 @@
       "last_sig": "tB8UHjDTqHNMYfia6ZSKaRQjkcyspYC5XauZfDk1UDSBbP3rskB333vEwrijbFTXHarSsqePUaw15b9L6zxDsiC",
       "sol": 0.490268828
     },
-    "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
-      "cards": 3933012.9036,
-      "last_active_ts": 1784559145,
-      "last_sig": "3i8CUcFqSxVp98dJeaFBf8ug4FXMYWHqNbwitWpRkrYCNrbaguPKKCdxkZvsRJKZ9w2KNPa7mZ2BxJa9EW1Avgkp",
-      "sol": 0.600637725
-    },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
       "cards": 5238139.281364,
       "last_active_ts": 1782595757,
@@ -63,10 +57,10 @@
       "sol": 1.056344931
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 3583019.732963,
-      "last_active_ts": 1784559421,
-      "last_sig": "3pCTMKuzk9b3orWkKnffrU8mN4GK2oP5Q8ookRNhxKvCCN8RgNbbVTpDyiX2QmqbUTux8M3HsoyZ1WDFDWfKSsqS",
-      "sol": 27352.443417141
+      "cards": 3565513.982963,
+      "last_active_ts": 1784565608,
+      "last_sig": "2UsWmbp2tpeoxPSzcVrjjwL1rxExti15HRLU6QSHuK3TrfPwBes2PU9SxWyVdYeYtk1tzbqtS9CskzhJ8eExRu42",
+      "sol": 29509.123739016
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9371247.575211,
@@ -85,6 +79,12 @@
       "last_active_ts": 1784418959,
       "last_sig": "4HzgLjdMkW6rZ99t9jW9F2jWqThyp1L1AF9rhLhGrntqc3YRpz3cDhmHK7aucAKYjmho1AM7t1n9yp8dXSdnPMFG",
       "sol": 6455.133341669
+    },
+    "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
+      "cards": 3521802.772975,
+      "last_active_ts": 1784402736,
+      "last_sig": "67n3XZiYPUrdxSihJZMBrDRFPLwLtjxsyVLXUubK65f9WrnSkxgZRkqKA7eWH92838L6S9naFUfxqPifrcdjVuzH",
+      "sol": 0.994677325
     }
   }
 }
