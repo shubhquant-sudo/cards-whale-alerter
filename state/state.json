@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-08-03T07:41:20.875256+00:00",
+  "last_run": "2026-08-03T10:59:09.633457+00:00",
   "market": {
-    "main_liquidity_usd": 2374566.87,
-    "price": 0.1382,
-    "price_change_h1": -1.41,
+    "main_liquidity_usd": 2325512.07,
+    "price": 0.1348,
+    "price_change_h1": -0.16,
     "price_dump_flag": false
   },
   "wallets": {
@@ -16,8 +16,8 @@
     },
     "3PnVBrb4wPLFLW38oaYR7dA6HSfKpawxHGESPj5kF1QB": {
       "cards": 1583831946.271765,
-      "last_active_ts": 1785740851,
-      "last_sig": "5o5HVa8sWyMtBsXtVgWkgURcuis6ewnS31kmgn1pyv3hFch8ua7B7X6swdX9VVoMq1vnzUkEuaUh6g7sCH9i81uH",
+      "last_active_ts": 1785754337,
+      "last_sig": "4CXJtknvtKXK6vGyjhbatBaV4wVd9HnqC5aeyFTRT4dtoLR3z7w73VEYDQXdrAs4RHeLYYtmA8xpZqi17877jJrK",
       "sol": 7.776525376
     },
     "5HwYhzpKthBdMNdeiMdt5cJ8i5uQKHEMVr5cv7abj61L": {
@@ -50,6 +50,12 @@
       "last_sig": "3qJpVoVENJBH3fZR4VxGFC1862KUkA689tSesnkp1iHGmetYJnKGCjPuaWgENVumEStWBkT8p5zuMxcLYfoeNaqi",
       "sol": 0.488217683
     },
+    "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
+      "cards": 3933012.9036,
+      "last_active_ts": 1785754671,
+      "last_sig": "2R8oCB9m5RYZ4spi5rUF3BPzADy32mG7Gr4hnNjwPapuU5CGyZZoaFGvhRKYn7qfH3fv1rwdaXDXAC1BraReiyjt",
+      "sol": 0.795306284
+    },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
       "cards": 5238139.281364,
       "last_active_ts": 1782595757,
@@ -57,10 +63,10 @@
       "sol": 1.056344931
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 3376404.516023,
-      "last_active_ts": 1785742825,
-      "last_sig": "2QceBkLQfnd4CXesoK8V2Hfyrz6NKxRpNhczMiMUKxmgqeTr8gD6szMp3YJ4RdsfZQpp9JADE3jogUgosDsT7WrC",
-      "sol": 31783.103063497
+      "cards": 3406290.514211,
+      "last_active_ts": 1785754686,
+      "last_sig": "59zrR4VG7D7jGVRbUZCKG8Mw6WHhWjpHboY9Tm1AAfjKgwR9rymkVzoCKvFwJZg7fM5ZMpru982BtDg5wkgNYnnw",
+      "sol": 31964.871200283
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9371247.575211,
