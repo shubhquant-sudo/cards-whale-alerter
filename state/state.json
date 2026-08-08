@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-08-08T06:23:09.692074+00:00",
+  "last_run": "2026-08-08T07:29:35.921174+00:00",
   "market": {
-    "main_liquidity_usd": 2691524.43,
-    "price": 0.1399,
-    "price_change_h1": -4.14,
+    "main_liquidity_usd": 2695008.84,
+    "price": 0.1401,
+    "price_change_h1": 0.2,
     "price_dump_flag": false
   },
   "wallets": {
@@ -52,8 +52,8 @@
     },
     "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
       "cards": 3933012.9036,
-      "last_active_ts": 1786169890,
-      "last_sig": "5EmYM571b1hkoEH1tJ7Vid6FeH5y9fehC8wgfunp3whPGx691o2jqTKbQgQUKhC1VbrPspDbQQLncbu4p3M2bGTh",
+      "last_active_ts": 1786173052,
+      "last_sig": "5QY53TBPk1hNhN1ia828wfW3byHsZL26rUSBQkG1a5sQcGF1gzbqb6Y2pw2oDEeKLm8ghxPND4o9JmCvp1usewj8",
       "sol": 0.80926691
     },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
@@ -64,9 +64,9 @@
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
       "cards": 3713812.1284,
-      "last_active_ts": 1786170062,
-      "last_sig": "2GXRgNdzmCkqPMSjPaPWn6KdxUBLFp8bGchTFMRG7pK285yS7HSpaEFPL1Fk3v4JWrktz4wgJ6Q1sPhM9d3cjyYi",
-      "sol": 38254.517785812
+      "last_active_ts": 1786174083,
+      "last_sig": "3v8xWpRpwY8B51BCNAN8vUy68kkzRBKP2G59tZrW14KsSK35Md3NwuBT4izEhvWBPrZpi3JX5GeuouopoXMKaqEG",
+      "sol": 36578.59416315
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9371247.575211,
@@ -80,11 +80,11 @@
       "last_sig": "5rox5NLKPq6rVRB8btDfGbzP2kLbyFHuTnj59TifibnbPm1ppVgwoBJeAirtLTRfpsFY6k1dur7sEN9PedYAikKC",
       "sol": 41.822922441
     },
-    "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
-      "cards": 26062.900095,
-      "last_active_ts": 1786133354,
-      "last_sig": "gcJ2KFTzCtkbopia6FqZsnETn8jwRYdBxtJRDV315gGCEWqgfK8nWBTVhN3usaHjZ28iUbLFY2ge3FXknfAaygR",
-      "sol": 19.970259546
+    "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
+      "cards": 3521802.772975,
+      "last_active_ts": 1786145673,
+      "last_sig": "2FpFjFs2LNwG2RgyXoRXST5Zp7FudoftP4bnD2dzLKkzprmCCvh7G7WuoPP3MYdM7euZK7cLrh3eBUkTK4xdaV3b",
+      "sol": 0.994677325
     }
   }
 }
