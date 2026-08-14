@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-08-14T14:31:35.791863+00:00",
+  "last_run": "2026-08-14T15:27:12.233666+00:00",
   "market": {
     "main_liquidity_usd": 5881257.1,
     "price": 821.24,
-    "price_change_h1": -0.79,
+    "price_change_h1": null,
     "price_dump_flag": false
   },
   "wallets": {
@@ -16,8 +16,8 @@
     },
     "3PnVBrb4wPLFLW38oaYR7dA6HSfKpawxHGESPj5kF1QB": {
       "cards": 1584867253.689999,
-      "last_active_ts": 1786715956,
-      "last_sig": "M7SQDhpoHZxBcJq95mv28kp8RXRJLWVNP9JgcNNYesaPx41Aa9DwcYJrBHLT2da9WyAiWrQbuDxPNFgQ1LnVKgQ",
+      "last_active_ts": 1786719569,
+      "last_sig": "3AhDXBAD937AXvQeijLKBLd3Uc12Qf2cxdSQiy1oNXXov2Yd7z6bTLdPLitzqjKgMQDytS1M7BmWby9Q46duZK9s",
       "sol": 7.776525376
     },
     "5HwYhzpKthBdMNdeiMdt5cJ8i5uQKHEMVr5cv7abj61L": {
@@ -52,8 +52,8 @@
     },
     "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
       "cards": 3933012.9036,
-      "last_active_ts": 1786717105,
-      "last_sig": "5CZkJbAHzXAqNxmAzrruG1Gbo8WjaRiYMzhRjSaBSeHeVTVbZZV19Je9Kgx2Upn6zBpz7rYU9PPBRDP3FYFfrvzb",
+      "last_active_ts": 1786720958,
+      "last_sig": "5CkV5XsvsRLnqeUzQQCiYs3PbF6art1gQW35qFhZ99HRb4oygiWzDUiSuk1EnXcbZwdzWdLTdbt7iEJAeevQVyBx",
       "sol": 0.824739937
     },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
@@ -64,9 +64,9 @@
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
       "cards": 3539503.818132,
-      "last_active_ts": 1786717862,
-      "last_sig": "5U3JN8ahQCcgpUULHpqpGxbkNsUYvM8SKyyS5oyAFxfkF8kAxHV5H4QbctGWmyipPe9UZvzD2qorgZTLg5VMJeJG",
-      "sol": 77386.16476236
+      "last_active_ts": 1786721165,
+      "last_sig": "58nXi9feQQFqFS7WNsynwH8h9ocUTqbL664vn6FjXCtigwxKVpFnuTQ8YczhV6ZjjmX8xRU2vTQjJ7DFGqCqSZ6S",
+      "sol": 76299.245790117
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9371247.575211,
@@ -82,15 +82,9 @@
     },
     "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
       "cards": 26062.900095,
-      "last_active_ts": 1786715829,
-      "last_sig": "4PRmL2WVXCM4dQnncbGyT4nhtwGzGUvaEVbcoGrJvuRUdWWMmTeZ5JcorDj1AVMxweje7AabL2RSaT7oj24eJAWQ",
-      "sol": 0.010924843
-    },
-    "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
-      "cards": 3521802.772975,
-      "last_active_ts": 1786549060,
-      "last_sig": "4gjcWRe8GAVUEpKocCFkeJonGkUNhdvsJfzuJAR4i9TTwtspD7VJXjgUpWgzZ3enNUBh8TRZYeq7v7iig6juucjw",
-      "sol": 0.994677325
+      "last_active_ts": 1786719911,
+      "last_sig": "4mx8gQqRrSuirkakwDhyvKGd3iavE5kkerR8dkiqTBx5T43U1St4skwXxnfR7a3xdkuZasnSyNpSKjfnDRpnnTvZ",
+      "sol": 0.01091462
     }
   }
 }
