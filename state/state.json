@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-08-17T19:03:25.166721+00:00",
+  "last_run": "2026-08-17T19:37:37.365842+00:00",
   "market": {
-    "main_liquidity_usd": 3144725.47,
-    "price": 0.1799,
-    "price_change_h1": 0.43,
+    "main_liquidity_usd": 3111453.38,
+    "price": 0.1769,
+    "price_change_h1": -1.54,
     "price_dump_flag": false
   },
   "wallets": {
@@ -50,12 +50,6 @@
       "last_sig": "3qJpVoVENJBH3fZR4VxGFC1862KUkA689tSesnkp1iHGmetYJnKGCjPuaWgENVumEStWBkT8p5zuMxcLYfoeNaqi",
       "sol": 0.488217683
     },
-    "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
-      "cards": 3933012.9036,
-      "last_active_ts": 1786993039,
-      "last_sig": "3XHFpvYSd49FLDnsGycYX1Xp3UALHNcxGAKXfkUwzRPX5oR3hurr3N6aeVqNXWwV86EfqULprMCks6PDqu3FuiXx",
-      "sol": 0.90871991
-    },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
       "cards": 7188139.281364,
       "last_active_ts": 1786978554,
@@ -64,9 +58,9 @@
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
       "cards": 3463798.765028,
-      "last_active_ts": 1786993327,
-      "last_sig": "2G1CfbTcwTzEzwxbsBGpawpkvZYm1gFCn3oMU826hbFbkkyWiW1ovqAAXxmkZECpRTcZ2dhEEcs4erciBuvF843C",
-      "sol": 31995.215407671
+      "last_active_ts": 1786995365,
+      "last_sig": "2J2j6d99DpKCEGJeHn6KaU2XUBRdv9MU76ju2cdGpeyKzFfHx1GBV6ea4DHGUi5DPCwRkqCahxRFREgyNkhNt976",
+      "sol": 32002.40150885
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9371247.575211,
@@ -82,9 +76,9 @@
     },
     "HHkT5w5EB87EU2RLiymzVxJ79CC89Y56NLiTjc8NxNNU": {
       "cards": 26062.900095,
-      "last_active_ts": 1786990363,
-      "last_sig": "4mKG8uZ4sTqgvrM1eAqXftSJvcbLCwYWYJHt7B8ya15raS3poz5x3gA2ektMtjjzcQxw9K2YvtEKHbDaweXMQq2s",
-      "sol": 30.089033728
+      "last_active_ts": 1786995240,
+      "last_sig": "4sh48MyM4q91nTawofNwsSDkfCKE5v7dDRJbasrejb1F175Xuspsy8rLg23bgkSM1uZPdnk48Mh3bQApkUva8bWb",
+      "sol": 30.089023438
     },
     "jrS7Pbn38wKiPsXbyNhGCr3icfXuJxdytZr1N4TwdFu": {
       "cards": 3521802.772975,
