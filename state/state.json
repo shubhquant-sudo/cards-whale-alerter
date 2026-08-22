@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-08-22T14:14:21.555183+00:00",
+  "last_run": "2026-08-22T14:42:20.131627+00:00",
   "market": {
-    "main_liquidity_usd": 3597461.54,
-    "price": 0.2306,
-    "price_change_h1": 0.66,
+    "main_liquidity_usd": 3604548.54,
+    "price": 0.2315,
+    "price_change_h1": 0.75,
     "price_dump_flag": false
   },
   "wallets": {
@@ -38,6 +38,12 @@
       "last_sig": "3QRSp7ugjC8Y9KsMdMW6Pq9J7VQZqHjsf5spF5b2LdWoMuTEjFsCK9LAjme8jkRCVzawiHXQhZgHHkSHR1fXtbCe",
       "sol": 11.009940002
     },
+    "6rQG31K3k9ZSDPV53hApWLoFagBbH6BnjcMk4vQbD37o": {
+      "cards": 6750000.0,
+      "last_active_ts": 1787275762,
+      "last_sig": "4irJVDfV6X6X1tdjUhNm8yyqwHTsWHnqEFkUtLBgFrTjc8FpkAto9euG9CLHs4B17NS7VLMR2YVNsZguFv99wima",
+      "sol": 7.153322938
+    },
     "7DZhNiJ4KYFD7UWLoL6HgKaUUJuGnJyVGaVnLkYSg7yX": {
       "cards": 5005341.93979,
       "last_active_ts": 1787275765,
@@ -46,8 +52,8 @@
     },
     "8373hLiAEXxaJ3oV7SRzx4KHwurEg9rEG98tUPj1sdtX": {
       "cards": 3933012.9036,
-      "last_active_ts": 1787407634,
-      "last_sig": "3jvktWnxNTXaHrTYwMFtPkHFJWwHm1GUZB9PapzCkzZGQkiDNFiFSJ2oJBQb9hbGLk79D882qJZrS7wF2onGQ2rb",
+      "last_active_ts": 1787409581,
+      "last_sig": "643CuJiGshBW3tpamWcctyuUBv2M8JP2efYjzjs7MN1Kruf5jzWxqRWb2rDsgdvt8wCNRrCzSTuF7ogrp1iqWNZp",
       "sol": 0.953580691
     },
     "9MHcSzS9cXs2ninTwuR3WnwSR6NMhTcARpuPZ8ex5GU9": {
@@ -57,10 +63,10 @@
       "sol": 1.055929598
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 3543999.857564,
-      "last_active_ts": 1787407987,
-      "last_sig": "3diGVhxesqt6vwj7R9ztxX2UDAgeadB8R9EBJ3JgW5wG1sKZxjCjLXzciQGx3zkt8kvj8A5JFPw1tcqG58fn2cS1",
-      "sol": 25341.649233029
+      "cards": 3538133.667564,
+      "last_active_ts": 1787409670,
+      "last_sig": "2w32DPyAT4Jk1Fn6poH8s8SfAGoL8422WdJpZr14dH57NSuV3npFwDCSFaP9YanYUHbPSmR7fgF93UPjRMTUAdMY",
+      "sol": 25392.182066447
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 9371247.575211,
