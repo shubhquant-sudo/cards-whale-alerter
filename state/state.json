@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-09-02T14:32:33.586287+00:00",
+  "last_run": "2026-09-02T18:01:51.517399+00:00",
   "market": {
-    "main_liquidity_usd": 3046907.54,
-    "price": 0.1731,
-    "price_change_h1": 2.29,
+    "main_liquidity_usd": 3027015.55,
+    "price": 0.1715,
+    "price_change_h1": -0.5,
     "price_dump_flag": false
   },
   "wallets": {
@@ -51,10 +51,10 @@
       "sol": 1.055929598
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 4238780.05827,
-      "last_active_ts": 1788359529,
-      "last_sig": "2BgR1FMzvGHBVdHYd18gj78PYNGPBzfMLjQqPtRxqVV2WBZTGAA7w6iCeZkknBv4VU9SUC4QGokRiM5pdWNXtNq1",
-      "sol": 27193.410706768
+      "cards": 4285749.764848,
+      "last_active_ts": 1788372065,
+      "last_sig": "5aMrbK11Y3b5LHZt2qomGBVycjRGhn9HygJHHgdPyWEjwAUpioMuq27H5o17gKdoguyaHTVUTU8TC4q6MBJcKbzx",
+      "sol": 26185.411019947
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 4470000.0,
