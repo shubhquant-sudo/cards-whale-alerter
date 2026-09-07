@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-09-07T15:54:18.718258+00:00",
+  "last_run": "2026-09-07T19:44:59.605626+00:00",
   "market": {
-    "main_liquidity_usd": 2727795.91,
-    "price": 0.1428,
-    "price_change_h1": -9.38,
+    "main_liquidity_usd": 2756594.74,
+    "price": 0.1449,
+    "price_change_h1": -7.4,
     "price_dump_flag": false
   },
   "wallets": {
@@ -15,9 +15,9 @@
       "sol": 116.335983912
     },
     "3PnVBrb4wPLFLW38oaYR7dA6HSfKpawxHGESPj5kF1QB": {
-      "cards": 1044979997.804263,
-      "last_active_ts": 1788214270,
-      "last_sig": "4YcwyWEhZEmvsFykds8wuDaYXjVFRTbjVG9BuedwTLGJbcvnTsPxbMuh9j7iF987W1cKjk1FH4D599j4mn2hpNQh",
+      "cards": 1029979997.804263,
+      "last_active_ts": 1788808125,
+      "last_sig": "3bksE1SEfbSSvg8VCkPaHyKv9QXuLmJfSzV3it4w9x2LFkb4WtwLftkEXsHwAfWoG2grAe3uwfCyCHkwdJWDDidX",
       "sol": 7.774486096
     },
     "5HwYhzpKthBdMNdeiMdt5cJ8i5uQKHEMVr5cv7abj61L": {
@@ -28,8 +28,8 @@
     },
     "5UT8zffhq81T7BSyNa6ygiiSnbrzQUtA6LQeyuyH3yiq": {
       "cards": 10057617.743776,
-      "last_active_ts": 1788796002,
-      "last_sig": "3hjBNbb27b51xrHYe9YihXnVFe6w2Nt9kREdP2CXwHvuxi6k5nUoYSuajbgdsyqgrCCnpNmZxxowGdLhqLep3G8o",
+      "last_active_ts": 1788802613,
+      "last_sig": "8pZaoU71DVRtYTvfhJJktdLC3t4JoVhPXzZYTTJ3G7vYLE3suDK388WzpUn8Egmzg45ANM86FKw1g5TRwCKYZKW",
       "sol": 10.410877041
     },
     "6QDnPbwbJuph4LdRDBj6ZGhVvw5fFx2dL2uBeDXCHWH": {
@@ -51,10 +51,10 @@
       "sol": 1.055929598
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 4164219.547216,
-      "last_active_ts": 1788796442,
-      "last_sig": "27oKjw5YM36T3v48Bc6bDUmPWSY9rVdhVu38FfP1rBn8BjadtXMsuxpBT8ZN5hfVwBetWTtXAQAQii3DiAEwkSGi",
-      "sol": 13128.665285644
+      "cards": 4220627.032257,
+      "last_active_ts": 1788810248,
+      "last_sig": "31VFq3xqHfyznavcFkzb5G7YKc9wEdJ9k6bdLNbk9gKcBM5NLUkDZFS9mtTotKa3oZKaroiZb5tgBnXmZ6o4FESk",
+      "sol": 17756.79134384
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 4470000.0,
