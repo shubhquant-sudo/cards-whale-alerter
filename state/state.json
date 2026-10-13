@@ -1,10 +1,10 @@
 {
   "initialized": true,
-  "last_run": "2026-10-12T19:12:25.500023+00:00",
+  "last_run": "2026-10-13T01:24:38.816593+00:00",
   "market": {
-    "main_liquidity_usd": 4007200.35,
-    "price": 0.2835,
-    "price_change_h1": -3.17,
+    "main_liquidity_usd": 3923934.51,
+    "price": 0.2721,
+    "price_change_h1": 2.7,
     "price_dump_flag": false
   },
   "wallets": {
@@ -15,10 +15,10 @@
       "sol": 116.335983912
     },
     "3PnVBrb4wPLFLW38oaYR7dA6HSfKpawxHGESPj5kF1QB": {
-      "cards": 1079566506.503436,
-      "last_active_ts": 1791803877,
-      "last_sig": "2V9gkQmNMr7AfJQBPmiPL8fZhHmjmG7HvcSRuBTbgvbnPgBMiTQkmBHoTrbiBipj6cfsc5AFMjJRz5jy3YuTwhYB",
-      "sol": 8.292028281
+      "cards": 1071551306.503437,
+      "last_active_ts": 1791840560,
+      "last_sig": "3eZLy3c5heAF9sxBPWzT1CAZ43Yi8X66yzAt76nt2QotutSD3nrPAwmdrWde6wd93N479YnBLzvnL55PvPWGq1Br",
+      "sol": 8.275045841
     },
     "5HwYhzpKthBdMNdeiMdt5cJ8i5uQKHEMVr5cv7abj61L": {
       "cards": 9999999.999999,
@@ -51,10 +51,10 @@
       "sol": 1.055915599
     },
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
-      "cards": 3660284.336473,
-      "last_active_ts": 1791832324,
-      "last_sig": "2QrzAb4kQy8H87aCHPW1qLJX9N5RWmLcFuQkTo3MH8bm6NPYeMXcr7QHeFLRcp5CgzyscnxnEBFQKU7VQHxuzRf4",
-      "sol": 32962.564835102
+      "cards": 3685179.641054,
+      "last_active_ts": 1791854644,
+      "last_sig": "7gs33ApLbs5pUcEuhBnpCrYwHzS1yvrNyzRUZC4Y6ayHKNXW2g5XGDciU8JM3zHLwsG3EEGpeFbM1mzpQeMYKv7",
+      "sol": 30899.710296186
     },
     "CPDRrijRYJMJmQ8v9jrSKGK3dXM9EG7mC4tZSLanPDxf": {
       "cards": 0.0,
@@ -64,8 +64,8 @@
     },
     "FrFx5v35tX3o9s7qCaNGSrYbFq6kAhqb1qvrZXmcmSaJ": {
       "cards": 15092981.737203,
-      "last_active_ts": 1791828754,
-      "last_sig": "4tUDuavS8GFTpobd5QXbycqHR79UKkwjfp3BNyHP1yVJyKiazcRXZYMap4VpnjqUjdiQKWxJqwivTXp6UEHso52m",
+      "last_active_ts": 1791839813,
+      "last_sig": "5y4ewdADQKu2oeFZa1Z45puKq7yTNS5RuMKVrWuwN5MqeEqnXvbwv6yXhQN9dTkE2kdC8SKEQz5CLZ8iHga78mgk",
       "sol": 59.427530182
     }
   }
